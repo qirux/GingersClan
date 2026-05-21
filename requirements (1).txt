@@ -1,6 +1,0 @@
-os
-asyncio
-aiohttp
-requests
-typing
-aiogram
